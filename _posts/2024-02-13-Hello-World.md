@@ -8,8 +8,8 @@ This is the blog of **Ellie**. This is a *test*. Which means
 - a list 
 * that makes no sense
 
-Or a list
+Or a list that
 
-- that looks
+- looks
 	- like
 		- stairs
